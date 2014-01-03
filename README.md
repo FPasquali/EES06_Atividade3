@@ -12,4 +12,4 @@ Python, Ruby, PHP
 Tipo de Licença:
 ================
 
-GPL V 2.0
+GPL V 2
